@@ -1,0 +1,1 @@
+{"reqId":"e536f362c87aa82fcd3ef56d72de3908","remoteAddr":"84.16.79.239","app":"PHP","message":"touch(): Unable to create file \/home\/utpr\/sites\/internal\/cloud\/data\/owncloud.log because No such file or directory at \/home\/utpr\/sites\/internal\/cloud\/lib\/private\/log\/owncloud.php#48","level":3,"time":"2015-05-07T13:35:39+00:00"}
